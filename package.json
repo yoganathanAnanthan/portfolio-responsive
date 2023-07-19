@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch style.scss style.css"
+  },
+  "author": "",
+  "license": "ISC"
+}
